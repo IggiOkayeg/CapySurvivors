@@ -12,7 +12,9 @@ This project is a 2D action game built with Python and Pygame. The game features
    Open a terminal or command prompt in the project’s root directory and run:
    ```bash
    pip install pygame
-
+   
+3. **Download Game Files**
+   Download all the game files from this github page 
 ## Launch Instructions
 
 1. **Run the game**  
